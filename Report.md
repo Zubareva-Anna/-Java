@@ -1,20 +1,29 @@
-14.03.2021 было проведено <функциональное тестирование> приложения **KeyValidator**.
+14.03.2021 было проведено тестирование приложения **KeyValidator**:
+* функциональное тестирование, 
+* дымовое тестирование, 
+* тестирование граничных значений, 
+* тестирование документации,
+* тестирование совместимости
 
 На тестирование затрачено: 30 минут
 
 В результате тестирования выявлены следующие дефекты:
 
-* [БАГ-1](https://github.com/Zubareva-Anna/-Java/issues/1)
-* [БАГ-2](https://github.com/Zubareva-Anna/-Java/issues/2)
+* [БАГ-1](https://github.com/Zubareva-Anna/-Java/issues/4)
+* [БАГ-2](https://github.com/Zubareva-Anna/-Java/issues/1)
 * [БАГ-3](https://github.com/Zubareva-Anna/-Java/issues/3)
 
-###**Описание процесса тестирования**
+###**Артефакты тестирования**
 
-1. Скачать приложение KeyValidator по ссылке <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class>;
-2. Открыть терминал
-3. В качестве тестовых данных использовались данные <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md>:
+1. [Инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
+2. [Приложение KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class)
+3. [Инструкция пользования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
-**Валидные ключи:**
+В качестве тестовых данных использовались данные из [Инструкции пользования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+
+**Ключи для проверки**
+
+*Валидные ключи:*
 
 * 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998
 * 80b427f8-92cd-3aae-ba04-3927fbe17c6
@@ -22,7 +31,7 @@
 * 387eedc6-12e9-3b32-9881-63b6b5e85317
 * c19a8cf9-5c3a-37c5-b7f3-d16d38a0c180
 
-**Невалидные ключи:**
+*Невалидные ключи:*
 
 * 18252235-78e0-44a5-8720-556f0c7da17a
 * e66075b6-ddad-445e-baf6-161b3289522b
