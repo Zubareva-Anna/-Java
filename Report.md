@@ -4,9 +4,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* [БАГ-1](https://github.com/Zubareva-Anna/-Java/issues/1)
+* [БАГ-2](https://github.com/Zubareva-Anna/-Java/issues/2)
+* [БАГ-3](https://github.com/Zubareva-Anna/-Java/issues/3)
 
 ###**Описание процесса тестирования**
 
