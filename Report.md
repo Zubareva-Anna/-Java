@@ -15,7 +15,7 @@
 * [Валидные ключи - не валидны](https://github.com/Zubareva-Anna/-Java/issues/1)
 * [НЕ валидный ключ валидный](https://github.com/Zubareva-Anna/-Java/issues/3)
 
-###**Артефакты тестирования**
+### **Артефакты тестирования** ###
 
 1. [Инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
 2. [Приложение KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class)
