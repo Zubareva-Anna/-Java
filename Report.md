@@ -1,6 +1,6 @@
-#Отчёт о тестировании KeyValidator
-##Краткое описание
-14.03.2021 было проведено тестирование приложения **KeyValidator**:
+# Отчёт о тестировании KeyValidator #
+## Краткое описание ##
+<14.03.2021>-<14.03.2021> было проведено тестирование приложения **KeyValidator**:
 * функциональное тестирование, 
 * дымовое тестирование, 
 * тестирование граничных значений, 
@@ -11,9 +11,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [БАГ-1](https://github.com/Zubareva-Anna/-Java/issues/4)
-* [БАГ-2](https://github.com/Zubareva-Anna/-Java/issues/1)
-* [БАГ-3](https://github.com/Zubareva-Anna/-Java/issues/3)
+* [В руководстве использования ВООБЩЕ нет данных по установке и запуску приложения](https://github.com/Zubareva-Anna/-Java/issues/4)
+* [Валидные ключи - не валидны](https://github.com/Zubareva-Anna/-Java/issues/1)
+* [НЕ валидный ключ валидный](https://github.com/Zubareva-Anna/-Java/issues/3)
 
 ###**Артефакты тестирования**
 
